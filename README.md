@@ -2,11 +2,11 @@
 ========
 * Author  : [Hom](https://github.com/Hom-Wang)
 * Version : v1.0
-* Update  : 2014/02/26
+* Update  : 2014/03/20
 
 Description
 ========
-FFC_ToHDR 是一個 FFCSPI 的轉接座，將 FFC16 轉成 Header 2*5。
+FFC_ToHDR 是一個 FFCSPI 的轉接板，將 FFC16 轉成 Header 2*5。
 
 License
 ========
@@ -26,7 +26,8 @@ Related Documents
 
 View
 ========
-
+<img src="https://lh3.googleusercontent.com/-CeXBc2NLnng/UynLNhgfSsI/AAAAAAAAHE4/brnMinzgTYo/s800/DSC_2025.jpg" />
+<img src="https://lh6.googleusercontent.com/-R_tmbWkbjGA/UynLN-jFheI/AAAAAAAAHE0/EjYc7D-yXog/s800/DSC_2032.jpg" />
 
 Schematic
 ========
