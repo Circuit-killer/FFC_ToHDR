@@ -1,8 +1,8 @@
 [FFC_ToHDR](https://github.com/OpenPCB/FFC_ToHDR)
 ========
 * Author  : [Hom](https://github.com/Hom-Wang)
-* Version : v1.0
-* Update  : 2014/03/20
+* Version : v1.2
+* Update  : 2014/03/29
 
 Description
 ========
@@ -18,7 +18,7 @@ License
 Hardware
 ========
 * PCB 尺寸 : 13 * 14mm
-* 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v0.5](https://github.com/OpenPCB/AltiumDesigner_PcbLibrary/releases/tag/v0.5) )
+* 設計軟體 [Altium Designer 14](http://www.altium.com/en/products/altium-designer) ( PcbLib use AD [PcbLib v0.9](https://github.com/OpenPCB/AltiumDesigner_PcbLibrary/releases/tag/v0.9) )
 
 Related Documents
 ========
@@ -31,4 +31,4 @@ View
 
 Schematic
 ========
-<img src="https://lh3.googleusercontent.com/-GjXG5Lczn-Y/Uwz8n9NzgWI/AAAAAAAAGqw/52rPIj0HG8I/s800/FFC_ToHDR_Sch.png" />
+<img src="https://lh6.googleusercontent.com/-bLCKbuDKdUc/UzZUHERXq1I/AAAAAAAAHKA/Uv3cp8hCzds/s800/FFC_ToHDR_Sch%2520v1.2.png" />
